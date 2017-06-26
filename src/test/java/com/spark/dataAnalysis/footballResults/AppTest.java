@@ -77,7 +77,7 @@ public class AppTest
     }
     
     
-    public void readFile(String filename){
+    public void readFile(String filename) {
     	
     	  String requestName;
           String line;
@@ -102,6 +102,11 @@ public class AppTest
         } catch(Exception ioex) {
             
         }    
+    	
+    	
+    }
+    
+    public void findMultiplier () {
     	
     	
     }
