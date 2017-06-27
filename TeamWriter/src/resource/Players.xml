@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Players>
+<FootballPlayer>
+    <name>Messi</name>   
+    <position>striker</position>
+    <tsColour>red</tsColour>       
+ </FootballPlayer> 
+ <FootballPlayer>
+    <name>Pogba</name>   
+    <position>midfielder</position>
+    <tsColour>blue</tsColour>       
+ </FootballPlayer>
+ 
+ <FootballPlayer>
+    <name>Bailly</name>   
+    <position>defender</position>
+    <tsColour>green</tsColour>       
+ </FootballPlayer>
+ 
+ <FootballPlayer>
+    <name>Ibrahimovic</name>   
+    <position>striker</position>
+    <tsColour>red</tsColour>       
+ </FootballPlayer>
+ 
+ <FootballPlayer>
+    <name>Ramos</name>   
+    <position>defender</position>
+    <tsColour>green</tsColour>       
+ </FootballPlayer>
+ 
+ <FootballPlayer>
+    <name>Busqets</name>   
+    <position>midfielder</position>
+    <tsColour>blue</tsColour>       
+ </FootballPlayer>
+ 
+ <FootballPlayer>
+    <name>Ronaldo</name>   
+    <position>striker</position>
+    <tsColour>red</tsColour> 
+ </FootballPlayer>
+ </Players>
+ 
+
